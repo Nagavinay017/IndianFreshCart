@@ -1,7 +1,7 @@
-## IndianFreshCart
+# IndianFreshCart
 IndianFreshCart is an E-commerce website which provides an interface between farmers and customers, where a farmer can sell his products to the customers without any intermediates.:<br />
 
-# This project was made by using Python Django Backend Framework.
+### This project was made by using Python Django Backend Framework.
 
 Technologies used in the project :<br />
 - HTML<br />
@@ -12,8 +12,9 @@ Technologies used in the project :<br />
 - Django<br />
 
 ## How to run
-Open `index.html` page<br />
-Enter the name of the country in the form inorder to get country wise covid cases info.
+Open the project folder<br />
+Run `python manage.py runserver`<br />
+open the localhost in the browser<br />
 
 ## Resources
 [Django Documentation](https://docs.djangoproject.com/en/3.2/) <br />
