@@ -14,7 +14,7 @@ Technologies used in the project :<br />
 ## How to run
 Open the project folder<br />
 Run `python manage.py runserver`<br />
-open the localhost in the browser<br />
+Open the localhost(http://127.0.0.1:8000/) in the browser.<br />
 
 ## Resources
 [Django Documentation](https://docs.djangoproject.com/en/3.2/) <br />
