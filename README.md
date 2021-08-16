@@ -21,5 +21,3 @@ Open the localhost(http://127.0.0.1:8000/) in the browser.<br />
 [Bootstrap](https://mdbootstrap.com/) <br />
 [Jquery](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js) <br />
 
-### [Website Link](https://indianfreshcart.pythonanywhere.com/)
-
